@@ -1,0 +1,99 @@
+body{
+    background-color:#ffffff;
+    cursor: grab;
+}
+.first-main{
+    background-color: 	#e60000;
+    margin-bottom: 0px;
+}
+.first-list{
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    color: black;
+    text-align: right;
+    display: block;
+    margin-bottom: 0px;
+   
+}
+.first-list a{
+    color: black;
+    text-decoration: none;
+}
+.main-image{
+    margin-top: 0px;
+}
+.image-text{
+background-color: #ff0000;
+color: #ffffff;
+
+}
+.first-name{
+   font-size: 30px;
+}
+#first-job{
+    text-decoration: underline;
+    font-size: 20px;
+}
+.pin-r{
+    color: #ff0000;
+}
+
+.skill_set{
+    display: inline-block;
+    list-style-type: none;
+    
+   
+}
+.int-list{
+   list-style-type: none;
+   display: inline;
+
+}
+ h4{
+    color: #ff0000;
+    text-decoration: underline;
+    display: flex;
+}
+ h5, h6{
+    color: #ff4d4d;
+    font-size: 14px;
+    font-style: italic;
+}
+.degree-study{
+    color: #ff0000;
+    font-size: 20px;
+    list-style-type: none;
+}
+.degree-study p{
+    color: black;
+    font-size: 15px;
+}
+
+img{
+    float: left;
+    width: 150px;
+    height: 150px;
+  border: 3px solid  #cc0000;
+  border-radius: 50%;
+  vertical-align: text-top;
+ 
+  padding: 10px;
+}
+.achi-tasks, .project-topic{
+    list-style-type: square;
+}
+.certificate-list{
+    text-align:left;
+    display: inline-block;
+    list-style-type: none;
+}
+span{
+    display: inline; /* the default for span */
+  width: 100px;
+  height: 50px;
+  padding: 2px;
+  border: 1px solid  #ff4d4d;  
+  background-color:#ff6666; 
+  border-radius: 20px;
+}
